@@ -1,0 +1,7 @@
+C:\Users\ponce\source\repos\programacion\intento1\bin\Debug\intento1.exe.config
+C:\Users\ponce\source\repos\programacion\intento1\bin\Debug\intento1.exe
+C:\Users\ponce\source\repos\programacion\intento1\bin\Debug\intento1.pdb
+C:\Users\ponce\source\repos\programacion\intento1\obj\Debug\intento1.csproj.AssemblyReference.cache
+C:\Users\ponce\source\repos\programacion\intento1\obj\Debug\intento1.csproj.CoreCompileInputs.cache
+C:\Users\ponce\source\repos\programacion\intento1\obj\Debug\intento1.exe
+C:\Users\ponce\source\repos\programacion\intento1\obj\Debug\intento1.pdb
